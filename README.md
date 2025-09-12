@@ -2,7 +2,7 @@
 Customer Health Pulse uses Tableau Next to combine CRM, support, product usage, and Slack data into a single health score. In order for teams to take early action, stop attrition, and save client relationships, it anticipates at-risk accounts, identifies underlying issues, and initiates Slack playbooks.
 
 ## Inspiration
-I was motivated by the problem that customer success teams deal with on a daily basis: churn's early warning signs are scattered throughout several systems, including CRM, support, product usage, and Slack. Frequently, it is too late when the signals appear. Our goal was to create a system that could not only visualize these signals but also convert them into account-saving actions.
+The motivation was, the problem that customer success teams deal with on a daily basis: churn's early warning signs are scattered throughout several systems, including CRM, support, product usage, and Slack. Frequently, it is too late when the signals appear. Our goal was to create a system that could not only visualize these signals but also convert them into account-saving actions.
 
 ## What it does
 Customer Health Pulse uses Tableau Next to create a single health score that integrates CRM, support cases, product usage, and Slack interactions. It provides proactive Slack notifications with customized playbooks, identifies at-risk accounts, and explains the underlying reasons. This transforms analytics into actionable steps that help teams reduce attrition and protect profits.
@@ -12,7 +12,7 @@ Customer Health Pulse uses Tableau Next to create a single health score that int
 
 - Created a Health Score model that combines recent interaction, Slack mentions, usage hours, support cases, and logins:
 
-HealthScore=(Logins×2)−(SupportCases×5)+(SlackMentions×3)+(UsageHours×0.5)−(LastEngagementDaysAgo×0.5)
+  ** HealthScore=(Logins×2)−(SupportCases×5)+(SlackMentions×3)+(UsageHours×0.5)−(LastEngagementDaysAgo×0.5) **
 
 - Created an interactive Tableau Next dashboard that includes root cause analysis, top at-risk customers, account distribution, and KPIs.
 
