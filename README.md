@@ -4,10 +4,10 @@ Customer Health Pulse uses Tableau Next to combine CRM, support, product usage, 
 ## Inspiration
 The motivation was, the problem that customer success teams deal with on a daily basis: churn's early warning signs are scattered throughout several systems, including CRM, support, product usage, and Slack. Frequently, it is too late when the signals appear. Our goal was to create a system that could not only visualize these signals but also convert them into account-saving actions.
 
-## What it does
+## What it does?
 Customer Health Pulse uses Tableau Next to create a single health score that integrates CRM, support cases, product usage, and Slack interactions. It provides proactive Slack notifications with customized playbooks, identifies at-risk accounts, and explains the underlying reasons. This transforms analytics into actionable steps that help teams reduce attrition and protect profits.
 
-## How we built it
+## How we built it?
 - A synthetic dataset comprising 200 client accounts with realistic activity patterns was created.
 
 - Created a Health Score model that combines recent interaction, Slack mentions, usage hours, support cases, and logins:
@@ -35,7 +35,7 @@ Customer Health Pulse uses Tableau Next to create a single health score that int
 
 - Creating a pristine, well-executed demo in a matter of days.
 
-## What we learned
+## What we learned?
 - The significance of using data to tell a story—it's not just about numbers; it's also about demonstrating their significance.
 
 - How to go from insight to action to impact using Tableau Next and Slack together.
