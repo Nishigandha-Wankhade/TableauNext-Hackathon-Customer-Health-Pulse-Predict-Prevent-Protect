@@ -30,7 +30,7 @@ Customer Health Pulse uses Tableau Next to create a single health score that int
 - Putting features first and avoiding over-engineering in favor of a distinct MVP.
 
 ## Accomplishments that we're proud of
-- A functional end-to-end pipeline that includes data, health score, dashboard, Slack alert, and playbook.
+- A functional end-to-end pipeline that includes data, health score, dashboard, Slack alert (tried but with limited access to my account, was not able to generate alerts), and playbook with AgentForce.
 
 - Transforming Tableau Next into an action-driven agentic system instead of just a visualization tool.
 
@@ -49,3 +49,18 @@ Customer Health Pulse uses Tableau Next to create a single health score that int
 - Make use of machine learning models to forecast churn in a predictive manner.
 
 - To further cut down on manual labor, integrate with Salesforce workflows to automatically initiate retention steps
+
+
+
+
+<img width="975" height="917" alt="image" src="https://github.com/user-attachments/assets/b7dbb1bd-4219-4770-8f02-970d65989af9" />
+
+
+
+
+
+
+
+
+
+
