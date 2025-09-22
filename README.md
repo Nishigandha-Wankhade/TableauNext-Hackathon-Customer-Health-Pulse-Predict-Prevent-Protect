@@ -1,3 +1,6 @@
+<img width="1536" height="1024" alt="Customer_Health_Pulse_Title_3x2" src="https://github.com/user-attachments/assets/7e7e1191-f50d-44e1-a2fc-a096a9f6581a" />
+
+
 # TableauNext-Hackathon-Customer-Health-Pulse-Predict-Prevent-Protect
 It as a “Tableau Next analytic app built on Salesforce”, designed by using Tableau Next inside the provisioned Salesforce org with a semantic model, metrics, and dashboards, plus Agentforce actions.
 Customer Health Pulse uses Tableau Next to combine CRM, support, product usage, and Slack data into a single health score. In order for teams to take early action, stop attrition, and save client relationships, it anticipates at-risk accounts, identifies underlying issues, and initiates Slack playbooks.
